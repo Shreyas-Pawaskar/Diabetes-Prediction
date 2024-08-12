@@ -15,8 +15,6 @@ The Diabetes Prediction System is a web-based application developed using Django
 - **Backend:** Django, Python
 - **Machine Learning:** Scikit-learn (Logistic Regression)
 - **Frontend:** HTML, CSS, Bootstrap
-- **Database:** SQLite (or any other database you used)
-- **Deployment:** Deployed on a server using [mention server or hosting service]
 
 ## Installation and Setup
 To run this project locally, follow these steps:
@@ -70,15 +68,11 @@ The system has been tested using a separate testing dataset to ensure the accura
 ## Contributing
 If you'd like to contribute to this project, please fork the repository and use a feature branch. Pull requests are welcome.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 For any questions or feedback, please reach out to:
 
-- **Name:** Shreyas
-- **Email:** [Your Email Address]
-- **LinkedIn:** [Your LinkedIn Profile]
+- **Name:** Shreyas Pawaskar
+- **Email:** theweekndhours2023@gmail.com
 
 ---
 
