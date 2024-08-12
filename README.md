@@ -12,6 +12,11 @@ This is a diabetes prediction system to be used in helping people live healthy l
 
 # ScreenShots (Output):
 
+                                              HOME PAGE
+
 ![Screenshot 2024-08-11 220327](https://github.com/user-attachments/assets/0eb9d8ff-01d6-467a-b5d6-d4951807d86a)
+
+                                            
+                                            PREDICTION PAGE
 
 ![Screenshot 2024-08-11 220428](https://github.com/user-attachments/assets/bdd585e7-c8ef-42ed-bb32-a2abac23769f)
