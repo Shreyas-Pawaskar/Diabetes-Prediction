@@ -12,7 +12,7 @@ This is a diabetes prediction system to be used in helping people live healthy l
 
 # ScreenShots (Output):
 
-                                              HOME PAGE
+                                               HOME PAGE
 
 ![Screenshot 2024-08-11 220327](https://github.com/user-attachments/assets/0eb9d8ff-01d6-467a-b5d6-d4951807d86a)
 
@@ -20,3 +20,7 @@ This is a diabetes prediction system to be used in helping people live healthy l
                                             PREDICTION PAGE
 
 ![Screenshot 2024-08-11 220428](https://github.com/user-attachments/assets/bdd585e7-c8ef-42ed-bb32-a2abac23769f)
+
+
+# Conclusion
+The Diabetes Prediction System exemplifies the integration of machine learning with web development to create a practical tool for assessing diabetes risk. By offering an accessible and user-friendly interface, this system facilitates early diagnosis and encourages proactive health management. Future improvements could focus on enhancing model accuracy through the incorporation of more sophisticated algorithms and broadening the dataset to encompass more diverse populations. This project underscores the transformative potential of predictive analytics in healthcare, highlighting the pivotal role of technology in improving patient outcomes.
