@@ -82,7 +82,6 @@ For any questions or feedback, please reach out to:
 
 ---
 
-Thank you for checking out this project! Your feedback and contributions are appreciated.
 
 
 # ScreenShots (Output):
@@ -95,3 +94,6 @@ Thank you for checking out this project! Your feedback and contributions are app
                                             PREDICTION PAGE
 
 ![Screenshot 2024-08-11 220428](https://github.com/user-attachments/assets/bdd585e7-c8ef-42ed-bb32-a2abac23769f)
+
+
+Thank you for checking out this project! Your feedback and contributions are appreciated.
